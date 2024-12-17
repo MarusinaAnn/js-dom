@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/08q9fl4osov3h0vb?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-2-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/08q9fl4osov3h0vb?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/js-dom)
 
 # Домашнее задание к занятию "2. DOM"
 
